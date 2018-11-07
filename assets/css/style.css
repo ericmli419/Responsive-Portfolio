@@ -262,13 +262,16 @@ input[type=submit] {
     position: static;
     margin-bottom: 20px;
   }
-  header .container {
+  header 
+  .container {
     padding: 0;
   }
   main.container {
     padding-top: 0;
   }
-  #logo, .work, .auth-image {
+  #logo, 
+  .work, 
+  .auth-image {
     width: 100%;
   }
   nav {
